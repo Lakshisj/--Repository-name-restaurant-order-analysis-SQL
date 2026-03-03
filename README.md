@@ -13,8 +13,11 @@ The dataset is sourced from Maven Analytics. I’m grateful to Maven Analytics f
 **Skills showcased in this Project**
 
 Use of SELECT and WHERE statements along with LIMIT and ORDER BY
+
 Use of Aggreagte Functions such as SUM, MAX, MIN, COUNT
+
 Use of GROUP BY and JOINS
+
 Use of Subquery
 
 **Queries**
